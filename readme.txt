@@ -1,1 +1,3 @@
 Functional calculator with graphing capabilities as well as history and visual customization features. In order to install and run the program you must open the termProject.py file and run the program in your desired Python editor.
+
+This was created as a final project for my Fundamentals of Programming class freshman year at Carnegie Mellon University in order to display the skills I had developed over the semester in Python coding.
