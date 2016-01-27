@@ -1,0 +1,1 @@
+Functional calculator with graphing capabilities as well as history and visual customization features. In order to install and run the program you must open the termProject.py file and run the program in your desired Python editor.
